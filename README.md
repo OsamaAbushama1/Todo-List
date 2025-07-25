@@ -26,9 +26,4 @@ A simple yet powerful Todo List application built with **React** that allows use
 
 ```bash
 git clone https://github.com/OsamaAbushama1/Todo-List.git
-cd react-todo-app
-
-
-### 2. Install dependencies
-```bash
-npm install
+cd Todo-List
